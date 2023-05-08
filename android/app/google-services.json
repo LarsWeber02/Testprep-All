@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91697277742",
+    "project_id": "eignungstest-7609d",
+    "storage_bucket": "eignungstest-7609d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91697277742:android:c6352b07d4cb491a58a8bf",
+        "android_client_info": {
+          "package_name": "com.testprep.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91697277742-8h3lnkbv84dunvmh54nrthve2ih15nm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgZDTNI_r2inKmiRPP3Z_ehIBBEonpnwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91697277742-8h3lnkbv84dunvmh54nrthve2ih15nm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
